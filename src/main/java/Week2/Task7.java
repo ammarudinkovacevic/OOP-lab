@@ -1,5 +1,7 @@
 package Week2;
-
+//*****
+//***
+//*********
 public class Task7 {
     private static void printStars(int amount)
     {

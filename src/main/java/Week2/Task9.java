@@ -1,7 +1,11 @@
 package Week2;
 
 import java.util.Scanner;
-
+//1
+//1 2
+//1 2 3
+//1 2 3 4
+//1 2 3 4 5
 public class Task9 {
     public static void drawNumberPiramid(int rows){
         int row_counter = 1;
